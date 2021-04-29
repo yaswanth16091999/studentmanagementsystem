@@ -1,0 +1,2 @@
+# studentmanagementsystem
+ mini project
